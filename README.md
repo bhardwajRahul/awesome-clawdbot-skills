@@ -31,7 +31,7 @@ Clawdbot is a locally-running AI assistant that operates directly on your machin
 
 Skills in this list are sourced from [ClawdHub](https://clawdhub.com) (Clawdbot's public skills registry) and categorized for easier discovery.
 
-These skills follow the Agent Skill convention develop by Anthropic - an open standard for AI coding assistants. You can submit your new skills to this repo or directly to ClawdHub.
+These skills follow the Agent Skill convention develop by Anthropic, an open standard for AI coding assistants.
 
 ## Installation
 
@@ -728,9 +728,9 @@ Priority: Workspace > Local > Bundled
 
 ## Contributing
 
-We welcome contributions! 
+We welcome contributions!
 
-- Submit new skills via PR
+- To add your skill, first publish it to [ClawdHub](https://clawdhub.com). After publishing, you'll get a GitHub repository link (e.g., `https://github.com/clawdbot/skills/tree/main/skills/username/skill-name`). Then submit a PR to this repo with your skill entry including that link
 - Improve existing definitions
 
 **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.

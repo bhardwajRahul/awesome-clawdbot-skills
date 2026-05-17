@@ -219,6 +219,7 @@
 - [muninn](https://clawskills.sh/skills/endgegnerbert-tech-muninn) - Universal Context Protocol (CXP) for AI agents. v2.3.7 includes the latest high-performance CXP engine (compiled.
 - [muninn-memory](https://clawskills.sh/skills/phillipneho-muninn-memory) - Memory system for AI agents.
 - [mycroft](https://clawskills.sh/skills/fabe-mycroft) - EPUB and ebook ingestion, local vector index, and Q&A CLI for books.
+- [nature-paper-hub](https://clawhub.ai/Yang1Bai/nature-paper-hub) - Full-pipeline AI writing agent for Nature-series journals (12 journals). Covers journal selection, manuscript drafting, figure generation (CSV→PDF), CrossRef citation verification, LaTeX/Word/PPT export, bilingual paper reader, and reviewer response. Includes 534-paper curated literature index.
 - [nadfunagent](https://clawskills.sh/skills/encipher88-nadfunagent) - Autonomous trading agent for Nad.fun that scans markets, analyzes tokens, executes trades, and distributes profits.
 - [native-typeform](https://clawskills.sh/skills/codeninja23-native-typeform) - Read Typeform forms and responses directly via the Typeform API.
 - [naver-shopping](https://clawskills.sh/skills/dryoo-naver-shopping) - Search for products on Naver Shopping.
